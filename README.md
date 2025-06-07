@@ -15,3 +15,14 @@ This project is a frontend clone of Twitter (X.com), built using **HTML** and **
 - HTML
 - TailwindCSS
 - JavaScript
+
+## 🚀 Getting Started
+
+To view the project locally:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Tiku57/e/X.com-Twitter-_Clone_TailwindCSS.git
+
+2. Open the index.html file in your browser:
